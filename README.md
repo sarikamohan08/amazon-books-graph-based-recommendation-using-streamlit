@@ -65,5 +65,8 @@ We get the degree-1 ego network by taking the books that have been co-purchased 
 Top Five Recommendations are then taken based on the similarity measures that are associated with the neighbors in this trimmed graph. In this example, The similarity metrics used are: first by AvgRating and then by TotalReviews.
 
 ## Result
-![Output](https://user-images.githubusercontent.com/29514438/48280946-2228a700-e47b-11e8-91e7-6371ed960670.PNG)
+![Output](output\Capture1.PNG)
+
+![Output](output\Capture2.PNG)
+
 
